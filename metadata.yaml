@@ -1,5 +1,8 @@
 _repo: Chemische-Unterhaltungen_75670
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75670-h/images/cover.jpg
 creator:
   author:
     agent_name: Wunder, Ludwig
@@ -10,6 +13,8 @@ creator:
     wikipedia: https://de.wikipedia.org/wiki/Ludwig_Wunder
 description: 'Reading ease score: 60.2 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75670#Chemische-Unterhaltungen
 gutenberg_bookshelf:
 - 'Browsing: Science - Chemistry/Biochemistry/Physics'
 - 'Browsing: Science - General'
